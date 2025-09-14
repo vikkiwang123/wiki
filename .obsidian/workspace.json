@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QWEN3-ASR.md",
+                "file": "洞察/语音识别ASR/ASR测评/QWEN3-ASR.md",
                 "mode": "source",
                 "source": false
               },
@@ -212,10 +212,10 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "db6ebafaf5581acb",
+  "active": "a8ca016d977274ac",
   "lastOpenFiles": [
     "洞察/语音识别ASR/ASR测评/Seed-ASR-model.md",
-    "QWEN3-ASR.md",
+    "洞察/语音识别ASR/ASR测评/QWEN3-ASR.md",
     "attachments/Pasted image 20250915054313.png",
     "洞察/语音识别ASR/语音模型测评.md",
     "洞察/语音识别ASR/attachments/Pasted image 20250915052204.png",
