@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +198,12 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "f84294d949a8510f",
+  "active": "db6ebafaf5581acb",
   "lastOpenFiles": [
-    "洞察/语音识别ASR/语音模型测评.md",
+    "洞察/语音识别ASR/attachments/Pasted image 20250915045441.png",
+    "洞察/语音识别ASR/attachments/Pasted image 20250915045439.png",
     "洞察/语音识别ASR/ASR测评/Seed-ASR-model.md",
+    "洞察/语音识别ASR/语音模型测评.md",
     "洞察/语音识别ASR/ASR测评/attachments/Pasted image 20250915044340.png",
     "洞察/语音识别ASR/attachments/Pasted image 20250915043842.png",
     "洞察/语音识别ASR/attachments/Pasted image 20250915043609.png",
@@ -214,7 +216,6 @@
     "洞察/语音识别ASR/ASR测评/attachments",
     "洞察/语音识别ASR/ASR测评",
     "洞察/语音识别ASR/attachments/segment_001.wav",
-    "洞察/语音识别ASR/attachments/Pasted image 20250915022153.png",
     "洞察/语音识别ASR/原理.md",
     "attachments/Pasted.md",
     "attachments",
